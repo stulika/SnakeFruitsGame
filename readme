@@ -1,0 +1,18 @@
+🐍 Snake Fruits Game
+A simple 2D Snake Game built using Python and Pygame, where the snake eats fruits to grow while avoiding collisions.
+
+📌 Game Features
+✅ Randomly spawning fruits for the snake to eat
+✅ Increasing difficulty as the snake grows
+✅ Game Over when the snake collides with itself or the wall
+✅ Smooth movement and fun gameplay
+
+🎮 How to Play
+1️⃣ Use Arrow Keys (⬆️⬇️⬅️➡️) to move the snake.
+2️⃣ Eat the fruits to grow and increase your score.
+3️⃣ Avoid hitting the walls or yourself.
+4️⃣ The game ends when the snake collides with itself or the boundary.
+
+🛠️ Technologies Used
+Python 🐍
+Pygame 🎮
